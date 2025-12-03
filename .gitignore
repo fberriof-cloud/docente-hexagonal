@@ -1,0 +1,21 @@
+# Carpetas de IDE / editor
+.vscode/
+.idea/
+
+# Backend (Spring Boot / Maven)
+docente-hexagonal/target/
+*.log
+
+# Frontend (React)
+frontend-docente/node_modules/
+frontend-docente/dist/
+
+# Node en la raíz (si lo usaste aquí)
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno (por si luego usas)
+.env
