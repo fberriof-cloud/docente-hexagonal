@@ -75,7 +75,7 @@ cd docente-hexagonal
 **mvn spring-boot:run** 
 
 ### Backend corre en: 
-**http://localhost:8080**
+http://localhost:8080
 
 ---
 
@@ -87,7 +87,7 @@ cd frontend-docente
 **npm run dev**
 
 ### Frontend corre en:
-**http://localhost:5173**
+http://localhost:5173
 
 
 
