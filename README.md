@@ -68,7 +68,7 @@ URL de consola H2: http://localhost:8080/h2-console
 ---
 
 ## Como Ejecutar el Proyecto 
-### ⏯️**Backend**
+### ⏯️ Backend
 
 ternminal 
 cd docente-hexagonal 
